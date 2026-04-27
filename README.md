@@ -18,12 +18,6 @@ Project ini menggabungkan 5 studi kasus Queue dalam satu aplikasi interaktif.
 - CustomTkinter
 - collections.deque
 
-📦 Instalasi
-git clone https://github.com/username/queue-visualizer.git
-cd queue-visualizer
-pip install customtkinter
-python main.py
-
 📁 Struktur
 queue-visualizer/
 ├── main.py
